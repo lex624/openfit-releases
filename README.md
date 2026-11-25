@@ -25,6 +25,7 @@ Shown with the app's built-in sample data.
 - **Sleep:** stages, heart rate and optional on-device snore detection on one night timeline, with a review against your own usual nights
 - **Trends:** steps, resting heart rate, HRV, respiratory rate and skin temperature, compared with your own normal
 - **Fitbit Air wrist alerts:** choose which apps buzz your wrist, with different vibration patterns for calls, messages and more
+- **Zone run:** set a heart-rate zone (there's a Zone 2 preset) and your Air buzzes when you drift above or below it, screen locked or not
 - **Everyday tools:** hourly move reminder, after-meal walk timer, guided breathing, meditation and yoga, HIIT and gym plans, food log and meal planner
 
 ## Install
@@ -37,6 +38,12 @@ Shown with the app's built-in sample data.
 Which metrics appear depends on what your tracker's app writes to Health Connect.
 
 Updates install over the top of the previous version, keeping your data.
+
+**"App blocked to protect your device"?** In some countries Google Play Protect hard-blocks sideloaded apps that use notification access, which OpenFit needs for wrist alerts, and there's no "Install anyway" option. You can install from a computer with `adb install OpenFit-x.y.z.apk`, or wait for the Google Play version, which is in testing.
+
+## Languages
+
+English and Traditional Chinese (Taiwan). OpenFit follows your phone's language, or pick one under **More → Language**. The Chinese translation is new, so corrections are welcome.
 
 ## Good to know
 
