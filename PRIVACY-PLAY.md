@@ -1,6 +1,6 @@
 # OpenFit privacy policy (Google Play edition)
 
-Effective date: 25 November 2026. Developer: Misty Addai.
+Effective date: 25 November 2026 (updated the same day to disclose MediaPipe). Developer: Misty Addai.
 Privacy/support contact: j.more.ljb@gmail.com. Public policy URL: https://github.com/lex624/openfit-releases/blob/main/PRIVACY-PLAY.md.
 
 OpenFit is a fitness and wellbeing application. It is not a medical device and
@@ -27,9 +27,14 @@ never audio.
 
 ## Information shared
 
-OpenFit has no developer-operated server, account system, advertising or
-analytics. Your health data is not sent off your device by OpenFit, sold or
-shared with third parties. Data you choose to export goes where you send it.
+OpenFit has no developer-operated server, account system or advertising. Your
+health data is not sent off your device, sold or shared with third parties. Data
+you choose to export goes where you send it.
+
+**Third-party SDK.** Snore tracking uses Google's MediaPipe library on your
+device. MediaPipe sends Google usage statistics, such as app and device details
+and performance information. It does not send audio or health data. Google's
+privacy policy applies to that data: https://policies.google.com/privacy
 
 ## Storage, retention and choices
 
