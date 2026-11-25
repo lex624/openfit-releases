@@ -8,6 +8,18 @@ No ads, no account, no OpenFit server. Your data stays on your phone.
 
 Get the latest APK from **[Releases](https://github.com/lex624/openfit-releases/releases/latest)**.
 
+## Screenshots
+
+Shown with the app's built-in sample data.
+
+| Today | Sleep | Heart |
+|---|---|---|
+| <img src="screenshots/today.png" width="240" alt="Today: steps ring and energy card"> | <img src="screenshots/sleep.png" width="240" alt="Sleep: duration, efficiency and stages"> | <img src="screenshots/heart.png" width="240" alt="Heart rate through the day"> |
+
+| Breathe | Training | Meal plan |
+|---|---|---|
+| <img src="screenshots/breathe.png" width="240" alt="Guided breathing, meditation and yoga"> | <img src="screenshots/training.png" width="240" alt="Training plans"> | <img src="screenshots/meal-plan.png" width="240" alt="Weekly meal plan"> |
+
 ## What it does
 
 - **Sleep:** stages, heart rate and optional on-device snore detection on one night timeline, with a review against your own usual nights
